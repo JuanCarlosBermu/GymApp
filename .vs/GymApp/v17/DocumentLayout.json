@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\berdo\\source\\repos\\GymApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13707D3F-051D-44E5-B537-D52050B723EA}|GymApp\\GymApp.csproj|c:\\users\\berdo\\source\\repos\\gymapp\\gymapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13707D3F-051D-44E5-B537-D52050B723EA}|GymApp\\GymApp.csproj|solutionrelative:gymapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\berdo\\source\\repos\\GymApp\\GymApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "GymApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\berdo\\source\\repos\\GymApp\\GymApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "GymApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T00:57:10.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
