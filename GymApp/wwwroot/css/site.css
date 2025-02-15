@@ -18,5 +18,13 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+  margin-bottom: 110px;
+  background-image: url(../images/home-banner.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  color: white;
+  
+
 }
