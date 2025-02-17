@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{13707D3F-051D-44E5-B537-D52050B723EA}|GymApp\\GymApp.csproj|c:\\users\\berdo\\source\\repos\\gymapp\\gymapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{13707D3F-051D-44E5-B537-D52050B723EA}|GymApp\\GymApp.csproj|solutionrelative:gymapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13707D3F-051D-44E5-B537-D52050B723EA}|GymApp\\GymApp.csproj|c:\\users\\berdo\\source\\repos\\gymapp\\gymapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{13707D3F-051D-44E5-B537-D52050B723EA}|GymApp\\GymApp.csproj|solutionrelative:gymapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,22 +24,9 @@
               "RelativeDocumentMoniker": "GymApp\\wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\berdo\\source\\repos\\GymApp\\GymApp\\wwwroot\\css\\site.css",
               "RelativeToolTip": "GymApp\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAATAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABgAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-15T22:30:09.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\berdo\\source\\repos\\GymApp\\GymApp\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "GymApp\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\berdo\\source\\repos\\GymApp\\GymApp\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "GymApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-15T00:57:10.723Z",
+              "WhenOpened": "2025-02-17T20:27:44.634Z",
               "EditorCaption": ""
             }
           ]
